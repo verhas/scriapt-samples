@@ -2,7 +2,7 @@ HelloWold Sample
 ================
 
 This is the simplest sample using the scriapt annotation processor. 
-This does nothing than writes the ominous 'Hello World!' text on the screen during compilation.
+This does nothing more than writes the ominous 'Hello World!' text on the screen during compilation.
 
 To get started with the scriapt annotation processor this sample is the first step.
 
